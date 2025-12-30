@@ -14,7 +14,7 @@
   </div>
   <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
   <div align="center">
-    Follow the full video tutorial on 
+    
   </div>
   <br />
 </div>
@@ -125,5 +125,3 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Vercel](https://vercel.com/)
 
 ---
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
